@@ -6,7 +6,7 @@ Switchit is a simple sticky notes app built using Python's Tkinter library that 
 
 Make sure you have Python installed on your system to run this text editor. The code is written in Python 3.x.
 
-You also need to install pytinker package using the command in cmd
+You also need to install tkinter package using the command in cmd
 ```
 pip install tkinter
 ```
@@ -55,4 +55,7 @@ This text editor was created as a simple project to demonstrate the usage of Pyt
 
 Feel free to modify and enhance this code as per your requirements. If you encounter any issues or have suggestions for improvements, please feel free to contribute to the project. Happy coding!
 
+If anyone wants a .exe version that runs without requiring Python contact me at ayushsharma14@gmail.com
+
+This is a screenshot of the UI
 ![Alt text](image.png)
