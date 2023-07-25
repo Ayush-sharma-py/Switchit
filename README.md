@@ -1,15 +1,15 @@
 # Switchit
 
-Switchit is a simple text editor built using Python's Tkinter library that allows you to open, edit, and save text files in a given directory. It provides basic functionalities such as navigating between multiple text files, saving changes, and quitting the application.
+Switchit is a simple sticky notes app built using Python's Tkinter library that allows you to open, edit, and save text files in a given directory. It provides basic functionalities such as navigating between multiple text files, saving changes, and quitting the application.
 
 ## Prerequisites
 
 Make sure you have Python installed on your system to run this text editor. The code is written in Python 3.x.
 
 You also need to install pytinker package using the command in cmd
-'''
+```
 pip install tkinter
-'''
+```
 
 ## Getting Started
 
@@ -33,7 +33,7 @@ pip install tkinter
 
 ## How to Use
 
-1. When you run the Switchit text editor, it will prompt you to select a directory. Choose a directory where your text files are located.
+1. When you run Switchit it will prompt you to select a directory. Choose a directory where your text files are located.
 
 2. If there are no text files in the chosen directory, a temporary file named "temp.txt" will be created.
 
@@ -45,7 +45,7 @@ pip install tkinter
 
 ## Notes
 
-- The text editor uses the Tkinter file dialog to open and save files, so it supports various text file formats.
+- The text editor uses the Tkinter file dialog to open and save files.
 
 - The application window is resizable, allowing you to adjust the size as per your preference.
 
