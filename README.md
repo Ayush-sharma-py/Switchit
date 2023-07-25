@@ -17,7 +17,7 @@ pip install tkinter
 
 2. Run the "main.pyw" file using Python. This will launch Switchit.
 
-3. Select the directory where your notes(.txt files) are present
+3. Select the directory where your notes(.txt files) are present.
 
 ## Features
 
@@ -54,3 +54,5 @@ pip install tkinter
 This text editor was created as a simple project to demonstrate the usage of Python's Tkinter library for GUI applications. It is intended for educational and learning purposes.
 
 Feel free to modify and enhance this code as per your requirements. If you encounter any issues or have suggestions for improvements, please feel free to contribute to the project. Happy coding!
+
+![Alt text](image.png)
