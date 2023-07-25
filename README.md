@@ -58,4 +58,5 @@ Feel free to modify and enhance this code as per your requirements. If you encou
 If anyone wants a .exe version that runs without requiring Python contact me at ayushsharma14@gmail.com
 
 This is a screenshot of the UI
+
 ![Alt text](image.png)
